@@ -1,6 +1,5 @@
 
 # 08_All_Basics.py
-
 # Python Basics - Complete Revision
 
 #
