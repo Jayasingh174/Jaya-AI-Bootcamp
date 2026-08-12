@@ -1,4 +1,3 @@
-# 05_Input_Output
 # 05_Input_Output.py
 
 # Python Basics - Input and Output
