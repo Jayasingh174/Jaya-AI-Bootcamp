@@ -1,4 +1,4 @@
-# 06_F_Strings
+
 # 06_F_Strings.py
 
 # Python Basics - F-Strings
