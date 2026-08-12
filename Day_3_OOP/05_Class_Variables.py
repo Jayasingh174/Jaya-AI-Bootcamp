@@ -1,4 +1,4 @@
-# 05_Class_Variables
+
 # ============================================================
 # 05_Class_Variables.py
 # Class Variables in Python
