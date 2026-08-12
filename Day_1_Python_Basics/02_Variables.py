@@ -1,4 +1,4 @@
-# 02_Variables
+
 # 02_Variables.py
 
 # Python Basics - Variables
