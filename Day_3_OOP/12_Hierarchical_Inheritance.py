@@ -1,4 +1,4 @@
-# 12_Hierarchical_Inheritance
+
 # ============================================================
 # 12_Hierarchical_Inheritance.py
 # Hierarchical Inheritance in Python
