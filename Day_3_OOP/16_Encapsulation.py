@@ -336,8 +336,7 @@ user.change_password("123")
 
 
 # PRIVATE
-#
-# self.__name
+#self.__name
 #
 # Double underscore triggers Python's
 # name-mangling mechanism.
